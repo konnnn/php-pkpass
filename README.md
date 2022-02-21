@@ -16,7 +16,7 @@ Simply run the following command in your project's root directory to install via
 composer require pkpass/pkpass
 
 // локально в папке на компе, через терминал $ cd regular.pass
-// $ composer dump-autoload
+// $ composer dump-autoload создает папку ../vendor/autoload.php
 composer dump-autoload 
 ```
 
